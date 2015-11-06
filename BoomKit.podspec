@@ -7,6 +7,7 @@
 #
 
 Pod::Spec.new do |s|
+s.name="BoomKit"
  	s.summary = 'Progress Bar Design with Percentage values.'
  　　s.homepage = 'https://github.com/appdesignvault'
  　　s.author = { 'appdesignvault' => 'appdesignvault' }
