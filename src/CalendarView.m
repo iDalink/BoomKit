@@ -12,7 +12,7 @@
 
 - (id)initWithCoder:(NSCoder *)aDecoder {
     self = [super initWithCoder:aDecoder];
-    self.backgroundColor = [UIColor redColor];
+    self.backgroundColor = [UIColor blueColor];
     return self;
 }
 /*
