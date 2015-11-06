@@ -23,6 +23,6 @@ Pod::Spec.new do |s|
 
   s.source       = { :git => "https://github.com/iDalink/BoomKit.git", :commit => "facbc828fbd2b68c1364a9f5f45f72a3faf0b2fc" }
 
-  s.source_files  = "Classes", "Classes/**/*.{h,m}"
+  s.source_files  = "src/*.{h,m}"
   s.exclude_files = "Classes/Exclude"
 end
